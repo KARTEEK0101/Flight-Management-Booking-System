@@ -1,0 +1,14 @@
+You can access the frontend code for the project here: https://drive.google.com/file/d/13zGq7Xs0A6vFex1x3p3VYGT_fCn-oTw8/view?usp=sharing
+
+
+The frontend has been developed using Angular(Typescript), a robust and widely used framework for building dynamic, single-page web applications (SPAs). The project leverages Angular’s component-based architecture to ensure modularity, maintainability, and scalability. Key features implemented in the frontend include:
+
+- Responsive UI: Ensures the application works seamlessly across different screen sizes and devices.
+
+- Routing and Navigation: Smooth client-side navigation using Angular’s Router module.
+
+- Forms and Validation: Interactive forms with built-in validation for improved user experience.
+
+- Service Integration: Communication with backend APIs via Angular’s HttpClient for data fetching and submission.
+
+- Reusable Components: Components are structured for reusability and easier maintenance.
